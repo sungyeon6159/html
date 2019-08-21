@@ -18,6 +18,11 @@
 <body>
 <#include "header.ftl">
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <div style="margin: 20px 20px 20px 20px;max-width: 150px" >
     <div style="position:absolute; right: 0%; y-index:2;" class="ui right labeled left icon input">
         <i class="tags icon"></i>
