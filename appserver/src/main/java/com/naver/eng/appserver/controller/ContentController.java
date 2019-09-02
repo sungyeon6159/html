@@ -26,7 +26,7 @@ public class ContentController
 		model.put("nick", name);
 		model.put("nick1", name1);
 		
-		return "input";
+		return "input1"; //src/main/resorces/templates/input1 과 연결되어 리턴값 뿌려줌
     }
 
 	@RequestMapping("/list")
